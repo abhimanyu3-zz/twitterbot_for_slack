@@ -61,7 +61,7 @@ you will get your slack api something like above starting with xoxb.
 
 
 15.) Once you are done with all of teh above step, setup the cron job by going to your terminal and use command :-
-     crontab-e
+     crontab -e
      and then make an entry like below 
      */1 * * * * /your_path/twitter.py
 
