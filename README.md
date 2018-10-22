@@ -62,9 +62,10 @@ you will get your slack api something like above starting with xoxb.
 
 15.) Once you are done with all of teh above step, setup the cron job by going to your terminal and use command :-
      
-     <img width="321" alt="screen shot 2018-10-22 at 3 49 40 pm" src="https://user-images.githubusercontent.com/8762047/47315426-91e10a00-d612-11e8-9f2d-12b462b54fe9.png">
+<img width="321" alt="screen shot 2018-10-22 at 3 49 40 pm" src="https://user-images.githubusercontent.com/8762047/47315426-91e10a00-d612-11e8-9f2d-12b462b54fe9.png">
      
  16.) Then make an entry like below 
+ 
 <img width="351" alt="screen shot 2018-10-22 at 3 50 23 pm" src="https://user-images.githubusercontent.com/8762047/47315427-91e10a00-d612-11e8-98bf-b73215c0e6ac.png">
 
 
